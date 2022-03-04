@@ -1,0 +1,32 @@
+[X] Reportes
+[X] Orden de servicio
+[X] En el Dashboard, cuando se da clic en una de las barras, generar en un excel o en una grilla la información
+[X] Anular factura
+[X] De los maestros cambiar la funcionalidad del boton ELIMINAR y cambiarlo por un estado ACTIVO o INACTIVO remision 
+[X] Mejoras buscadores
+[X] Editar factura
+[X] Facturas por productos  
+[X] Facturas por clientes
+[X] En el maestro de ARTÍCULO adicionar el campo UNIDAD para detallas si es caja, bolsa, unidad(por defecto), etc
+[X] pdf tirilla
+[X] Tenancy
+[X] Last login
+[ ] Remisiones en productos
+[ ] Remisiones en Clientes
+[ ] Graficas por roles
+[ ] Panel 
+
+
+Cuando actualizo la factura no actuliza el total del tax
+
+
+EXTRA
+idioma
+En el maestro de ARTÍCULO Adicionar un campo CANTIDAD y cuando se facture las unidades se reste.
+Crear otro ingreso llamado COTIZADOR y solo sería Duplicar la REMISIÓN que tenemos actualmente
+modificar precio
+En el maestro CLIENTE adicionar un checkbox ☑ para el “habeas data” donde autorice o no enviar correos para fines comerciales 
+
+
+
+editar cantidad
